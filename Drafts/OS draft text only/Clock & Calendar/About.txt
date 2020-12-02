@@ -1,0 +1,8 @@
+The clock and the calendar applications have been a key part of computing since
+the beginning, and even before the GUI (DOS) Since this operating system is made
+to revolutionize, and make maximum customization abilities, the clock had to be
+redone. We have made the clock even more powerful than before, and to the point
+where it can be used as a toy. The clock goes through time so far that you can
+have a good laugh, or view certain events, and theories from those time periods.
+You can play around with the time, however, make sure to create a restore point
+first
