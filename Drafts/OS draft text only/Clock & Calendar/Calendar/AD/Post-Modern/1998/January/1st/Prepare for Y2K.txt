@@ -1,0 +1,6 @@
+Prepare for Y2K
+The year 2000 is coming soon, and rumor has it, that all computers that are not 
+updated will fail completely. 
+<Do a bios check>
+<Ignore>
+<Check for updates>
